@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+  --grey: #c0c0c0;
+  --dark-blue: rgb(6, 2, 253);
+}
+
+header, main, footer{
+  text-align: center;
+}

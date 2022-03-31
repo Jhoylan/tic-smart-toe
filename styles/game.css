@@ -1,0 +1,43 @@
+.game_area{
+  margin: auto;
+  width: 42rem;
+  height: 42rem;
+}
+
+.square{
+  width: 14rem;
+  height: 14rem;
+  flex: 1;
+}
+
+.field{
+  width: 10rem;
+  height: 10rem;
+  margin: 2rem;
+}
+
+.field:hover{
+  background-color: var(--grey);
+}
+
+.first_row, .second_row, .third_row{
+  display: flex;
+}
+
+.start_checkbox{
+  display: flex;
+  width: 20rem;
+}
+
+.start_item{
+  flex: 1;
+}
+
+/* start configuration */
+.start{
+  display: flex;
+}
+
+.start_checkbox, .start_button{
+  flex: 1;
+}

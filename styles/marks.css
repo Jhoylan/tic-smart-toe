@@ -1,0 +1,7 @@
+.square, .circle{
+  background-color: var(--dark-blue);
+}
+
+.circle{
+  border-radius: 50%;
+}

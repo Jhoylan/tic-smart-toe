@@ -1,0 +1,16 @@
+.first_row, .second_row{
+  border-bottom: .5rem solid var(--grey);
+}
+
+.third_row, .second_row{
+  border-top: .5rem solid var(--grey);
+}
+
+
+.first_column, .second_column{
+  border-right: .5rem solid var(--grey);
+}
+
+.third_column, .second_column{
+  border-left: .5rem solid var(--grey);
+}
